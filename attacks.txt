@@ -24,3 +24,5 @@ slowheaders	 to		75.127.97.72	 after 17:13 1033 minutes
 goldeneye	 to		69.192.24.88	 after 19:23 1163 minutes
 hulk		 to		75.127.97.72	 after 19:25 1165 minutes
 rudy		 to		74.55.1.4	 	 after 20:59 1259 minutes
+
+tcp.flags.syn==1 and ip.dst==69.84.133.138
